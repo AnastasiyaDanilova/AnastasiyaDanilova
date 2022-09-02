@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiyaDanilova&layout=compact)](https://github.com/AnastasiyaDanilova/github-readme-stats)
 
-📫 U can find me in telegram - <a href="https://t.me/pressness" target="_blank"><img src="https://swimfed23.ru/wp-content/uploads/2022/04/telegram-logo.png" alt="иконка телеграм" height="20px"></img></a>
+📫 <p display="flex"> U can find me in telegram - <a href="https://t.me/pressness" target="_blank"><img src="https://swimfed23.ru/wp-content/uploads/2022/04/telegram-logo.png" alt="иконка телеграм" height="20px"></img></a> </p>
 
 <!---
 AnastasiyaDanilova/AnastasiyaDanilova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
