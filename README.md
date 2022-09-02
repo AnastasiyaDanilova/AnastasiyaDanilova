@@ -6,7 +6,7 @@
 
 👅 My favorite:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?AnastasiyaDanilova=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 📫 U can find me in telegram - <a href="https://t.me/pressness" target="_blank"><img src="https://swimfed23.ru/wp-content/uploads/2022/04/telegram-logo.png" alt="иконка телеграм" height="20px"></img></a>
 
