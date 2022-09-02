@@ -11,6 +11,9 @@
 
  <p display="flex"> 📫 U can find me in telegram - <a href="https://t.me/pressness" target="_blank"><img src="https://swimfed23.ru/wp-content/uploads/2022/04/telegram-logo.png" alt="иконка телеграм" height="20px"></img></a> </p>
 
+😏 For fun:
+
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <!---
 AnastasiyaDanilova/AnastasiyaDanilova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
